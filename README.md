@@ -1,4 +1,0 @@
-crawler-nodejs
-==============
-
-Crawler Nodejs
